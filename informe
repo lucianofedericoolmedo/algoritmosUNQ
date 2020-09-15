@@ -1,0 +1,1 @@
+En la imagen se muestra como con datos aleatorios con o sin hit (vease se puede obtener o no el elemento) , BS hace busquedas logaritmicas más profundas ( y lo hace más veces) y es a pesar de ser una diferencia logaritmica tarda un poco más de tiempo.
